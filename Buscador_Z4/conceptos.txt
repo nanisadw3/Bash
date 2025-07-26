@@ -1,0 +1,10 @@
+Conceptos aplicados:
+>Creación de un menú con GETOPTS que nos permita alternar entre una serie de funciones existentes
+>Creación de funciones
+>Uso y empleo de condicionales en Bash
+>Control del flujo del programa frente a Ctrl+C
+>Hacemos uso de Curl para obtener el código fuente de la página cuyos datos deseamos filtrar
+>Jugamos con js-beautify para mejorar el código en formato Javascript que se nos reporta
+>Comprobamos la integridad de los datos con md5sum
+>Diseñamos un modo que nos permita detectar nuevas actualizaciones en los archivos
+>Diseñamos el comportamiento a la hora de detectar y no detectar actualizaciones

@@ -1,0 +1,514 @@
+
+[0;33m[1m[+][0m[0m [0;37m[1mDinero actual: [0m[0m[0;33m[1m100[0m[0m
+
+	[0;36m[1m[>][0m[0m [0;37m[1mA que vas a apostar continuamente (par/impar)? -> [0m[0m[0;33m[1m
+[+][0m[0m [0;37m[1mSecuencia [[0m[0m[0;32m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+	[0;33m[1m[$][0m[0m [0;37m[1mDinero actual: [0m[0m[0;33m[1m100[0m[0m
+
+[?25l[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m7[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m95[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m95[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m35[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m90[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m90[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m30[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m85[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m95[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m17[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m89[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m89[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m31[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m83[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m83[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m14[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m3[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m80[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m86[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m33[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m80[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m80[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m9[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m75[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m75[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m20[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m70[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m80[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m15[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m7[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m73[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m73[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m36[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m3[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m70[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m76[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m5[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m70[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m70[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m34[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m65[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m75[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m18[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m69[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m81[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m12[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m7[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m74[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m88[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6 7[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m15[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m8[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m80[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m80[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4 5 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m8[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m8[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m72[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m88[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4 5 6 8[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m20[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m10[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m78[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m98[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4 5 6 8 10[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m19[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m12[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m86[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m86[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4 5 6 8[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m26[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m75[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m97[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4 5 6 8 11[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m24[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m14[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m83[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m111[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4 5 6 8 11 14[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m0[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m17[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m94[0m[0m
+[0;31m[1m[<] [0;31m[1m0[0m[0m [0;37m[1mpierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m94[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m4 5 6 8 11[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m15[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m15[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m79[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m79[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m5 6 8[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m13[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m13[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m66[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m66[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m14[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m60[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m72[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m26[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m12[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m60[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m84[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 6 12[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m15[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m66[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m66[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m2[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m60[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m72[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m36[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m12[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m60[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m84[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 6 12[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m12[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m66[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m102[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 6 12 18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m25[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m24[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m78[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m78[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 12[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m27[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m60[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m60[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m30[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m55[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m65[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m3[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m59[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m59[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m6[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m53[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m65[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m13[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m8[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m57[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m57[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m22[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m7[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m50[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m64[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4 7[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m6[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m10[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m54[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m74[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4 7 10[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m31[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m13[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m61[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m61[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m4 7[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m31[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m50[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m50[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m19[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m45[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m45[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m31[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m40[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m40[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m0[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m35[0m[0m
+[0;31m[1m[<] [0;31m[1m0[0m[0m [0;37m[1mpierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m35[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m22[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m40[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m13[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m7[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m33[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m33[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m6[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m3[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m36[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m6[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m42[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m4[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m9[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m33[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m51[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3 6 9[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m26[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m12[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m39[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m63[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3 6 9 12[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m26[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m15[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m48[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m78[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 3 6 9 12 15[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m29[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m60[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m60[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 6 9 12[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m14[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m15[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m45[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m75[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 6 9 12 15[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m11[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m57[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m57[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m6 9 12[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m9[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m39[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m39[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m9[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m24[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m9[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m48[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m9 9[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m30[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m66[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m9 9 18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m4[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m27[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m39[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m93[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m9 9 18 27[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m3[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m36[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m57[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m57[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m9 18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m18[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m27[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m84[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m9 18 27[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m29[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m36[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m48[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m48[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m26[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m66[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m18 18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m2[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m36[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m102[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m18 18 36[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m0[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m54[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m48[0m[0m
+[0;31m[1m[<] [0;31m[1m0[0m[0m [0;37m[1mpierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m48[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m14[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m18[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m66[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m18 18[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m21[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m36[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m30[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m3[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m25[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m25[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m12[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m20[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m30[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m9[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m7[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m23[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m23[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m25[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m3[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m20[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m20[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m16[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m15[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m25[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m18[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m6[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m19[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m31[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m36[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m7[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m24[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m38[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6 7[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m30[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m8[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m30[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m46[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6 7 8[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m6[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m9[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m37[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m55[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6 7 8 9[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m32[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m10[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m45[0m[0m
+[0;36m[1m[+][0m[0m [0;37m[1mEl numero es par Ganas![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m65[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4 5 6 7 8 9 10[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m17[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m54[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m54[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3 4 5 6 7 8 9[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m23[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m43[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m43[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m3 4 5 6 7 8[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m23[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m32[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m32[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m4 5 6 7[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m33[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m21[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m21[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m5 6[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m31[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m11[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m10[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m10[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m5[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m5[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m5[0m[0m [0;37m[1mdinero[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m2 3[0m[0m[0;37m[1m][0m[0m
+
+[0;33m[1m[+][0m[0m [0;37m[1mHa salido el numero[0m[0m [0;34m[1m19[0m[0m
+[0;33m[1m[$][0m[0m [0;37m[1mInvertimos [0;33m[1m5[0m[0m[0;37m[1m por lo que tienes [0m[0m[0;33m[1m0[0m[0m
+[0;31m[1m[<][0m[0m [0;37m[1mEl numero es impar Pierdes![0m[0m
+	[0;32m[1m[$][0m[0m [0;37m[1mTienes[0m[0m [0;33m[1m0[0m[0m [0;37m[1mdinero[0m[0m
+[0;35m[1m[...][0m[0m[0;37m[1mSe tiene que formatear la secuencia[0m[0m
+[0;33m[1m[+][0m[0m [0;37m[1mLa nueva secuencia es -> [[0m[0m[0;34m[1m1 2 3 4[0m[0m[0;37m[1m][0m[0m
+
+[0;31m[1m[!][0m[0m [0;37m[1mTe quedaste sin dinero[0m[0m
+[0;34m[1m[+][0m[0m [0;37m[1mLa mayor cantidad de dinero que se junto fue[0m[0m [0;34m[1m111[0m[0m
+[0;32m[1m[+][0m[0m [0;37m[1mTotal de apuestas[0m[0m [0;34m[1m82[0m[0m
+[?12h[?25h
